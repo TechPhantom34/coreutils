@@ -1,6 +1,9 @@
 <!-- GitAds-Verify: 5UX6EFUYG4IR9UWGX1L4A2HEDS28T7BF -->
 These are the GNU core utilities.  This package is the union of
 the GNU fileutils, sh-utils, and textutils packages.
+Ads## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=techphantom34/coreutils@github)](https://gitads.dev/v1/ad-track?source=techphantom34/coreutils@github)
+
 
 Most of these programs have significant advantages over their Unix
 counterparts, such as greater speed, additional options, and fewer
